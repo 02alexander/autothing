@@ -1,0 +1,17 @@
+key,Key.enter,False,0.0504
+click,2626,166,Button.left,True,1.5335
+click,2626,166,Button.left,False,0.1177
+key,'g',True,0.8331
+key,'g',False,0.1193
+key,'o',True,0.0725
+key,'o',False,0.0834
+key,'o',True,0.0606
+key,'g',True,0.0759
+key,'o',False,0.0355
+key,'g',False,0.0923
+key,'l',True,0.0325
+key,'e',True,0.1559
+key,'l',False,0.0833
+key,'e',False,0.1002
+key,Key.enter,True,0.3205
+key,Key.enter,False,0.1592

@@ -1,0 +1,11 @@
+key,Key.enter,False,0.1261
+click,3834,38,Button.left,True,2.1095
+click,3834,38,Button.left,False,0.0985
+key,'c',True,1.8921
+key,'c',False,0.1194
+key,'+',True,0.0526
+key,'+',False,0.0994
+key,'+',True,0.0522
+key,'+',False,0.1275
+key,Key.enter,True,0.5808
+key,Key.enter,False,0.1473

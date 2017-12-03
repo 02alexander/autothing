@@ -1,0 +1,6 @@
+click,3813,46,Button.left,True,2.1074
+click,3813,46,Button.left,False,0.0872
+key,'c',True,1.4415
+key,'c',False,0.1147
+key,Key.enter,True,0.1047
+key,Key.enter,False,0.1714
